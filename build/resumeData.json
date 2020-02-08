@@ -1,0 +1,220 @@
+{
+  "main": {
+    "name": "Husnain Raza",
+    "occupation": "(English Teacher)",
+    "description": "I am a linguist by passion, a language teacher by profession and a traveler by will.",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "husnain.raza3@gmail.com",
+    "phone": "0092-322-4576630",
+    "address": {
+      "street": "(Fasial Town)",
+      "city": "(Lahore)",
+      "state": "(Punjab)",
+      "zip": "(54000)"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "FAST-National University of Computer and Emerging Sciences, Lahore (Pakistan)  ",
+        "degree": "M.S Applied Linguistics ",
+        "graduated": "July 2017",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "National University of Modern Languages, Islamabad (Pakistan) ",
+        "degree": "M.A English Linguistics and Literature",
+        "graduated": "July 2015",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Punjab University, Lahore (Pakistan)",
+        "degree": "Bachelors of Arts",
+        "graduated": "August 2013",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Government College of Science, Lahore (Pakistan)",
+        "degree": "Intermediate",
+        "graduated": "August, 2009",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Cooperate English Language Trainer ",
+        "title": "Language Trainer ",
+        "years": "October, 2019–Present",
+        "description": "Cooperate English Language Trainer Qabil.co"
+      },
+      {
+        "company": "FAST National University of Computer and Emerging Sciences, Lahore (Pakistan)",
+        "title": "Visiting Lecturer ",
+        "years": "August, 2016- Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "FAST- National University of Computer and Emerging Sciences, Lahore (Pakistan)",
+        "title": "Visiting English Language Lab Instructor",
+        "years": "August, 2016–Present",
+        "description": "FAST- National University of Computer and Emerging Sciences, Lahore (Pakistan)"
+      },
+      {
+        "company": "Lahore Institute of Future Education (LIFE), Lahore (Pakistan)",
+        "title": "Visiting Lecturer",
+        "years": "April, 2018–October, 2019 (7 Months)",
+        "description": "Lahore Institute of Future Education (LIFE), Lahore (Pakistan)http://life.edu.pk/"
+      },
+      {
+        "company": "Ernst & Young Chartered Accountants, Lahore.",
+        "title": "Monitoring Officer",
+        "years": "September, 2015–August, 2017 (2 Years)",
+        "description": "Ernst & Young Chartered Accountants, Lahore http://www.ey.com/PK/en/Home"
+      },
+      {
+        "company": "Hope Foundation, Kasur (Pakistan)",
+        "title": "Teacher Assistant",
+        "years": "June, 2014–June, 2016 (2 Years)",
+        "description": "English Access Micro Scholarship Program, Hope Foundation, Kasur (Pakistan)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Syllabus design and curriculum developer",
+        "level": "60%"
+      },
+      {
+        "name": "Collecting and analysing linguistic landscape.",
+        "level": "55%"
+      },
+      {
+        "name": "Conducting CALL based workshops for teachers’ support.",
+        "level": "50%"
+      },
+      {
+        "name": "Maintain and promote engaged classroom environment.",
+        "level": "90%"
+      },
+      {
+        "name": "Experience of analysing research data.",
+        "level": "80%"
+      },
+      {
+        "name": "Ms-Word",
+        "level": "90%"
+      },
+      {
+        "name": "Ms-Excel ",
+        "level": "100%"
+      },
+      {
+        "name": "Ms-PowerPoint ",
+        "level": "90%"
+      },
+      {
+        "name": "NLTK-Python",
+        "level": "50%"
+      },
+      {
+        "name": "Experience of using advance soft-wares for data analysis.",
+        "level": "50%"
+      },
+      {
+        "name": "Experience of using advance soft-wares for data analysis.",
+        "level": "50%"
+      },
+      {
+        "name": "Programming C++ ",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Literature & Language Forman Christian College, Lahore.",
+        "category": "Re-Evaluation and Re-Connection with the Past in Daud Kamal’s Poetry.Published in Abstract Book of 1st International Conference",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Conference of English Language & Literature Mehran University",
+        "category": "A study of number inflection in Kalasha Language. Published in Abstract Book of 1st Intl.",
+        "image": "fury-fighting-gear.jpg",
+        "url": ""
+      },
+      {
+        "title": "Conference of English Language & Literature Mehran University.",
+        "category": "Analysing Semantic Change through Semantic Mapping of “terrorist” in Pakistani Newspaper Articles from Afghan and Iraq Wars",
+        "image": "original-thai-food.jpg",
+        "url": ""
+      },
+      {
+        "title": "Conference of English Language & Literature Mehran University",
+        "category": "Exploring Verbal Aggression in News Articles Using USAS: A Corpus Based Study. Published in Abstract Book of 1st Intl",
+        "image": "resume-website.jpg",
+        "url": ""
+      },
+      {
+        "title": "Conference of English Language & Literature Mehran University",
+        "category": "Analysing Semantic Change through Semantic Mapping of “Power” in Pakistani Newspaper Articles from Afghan and Iraq Wars. Published in Abstract Book of 1st Intl.",
+        "image": "smirkspace.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
